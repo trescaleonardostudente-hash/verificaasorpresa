@@ -3,3 +3,7 @@ vendor/
 *.db
 *.sqlite
 .DS_Store
+.vscode/
+.idea/
+composer.lock
+*.log
